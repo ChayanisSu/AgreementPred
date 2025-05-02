@@ -8,7 +8,7 @@ Due to space limitation on Github. The the data necessary to implement Agreement
 
 Transfer all folders into Agreement_Codes main folder prior to implementing the scripts.
 
-The followint data are provided
+The following data are provided in AgreementPred_Data folder
 1. Pubchem annotation of 9721 compounds in Annotated-Compound dataset (Annotated-Compound_Annotations.csv)
 2. Side effects of 1376 drugs in Annotated-SE dataset (Annotated-SE_Annotations.csv)
 3. ATC classification of 1157 drugs from iSEA (https://pubs.acs.org/doi/10.1021/ci400155x) dataset. ATC class (second-level ATC) is provided in the original publication. The higher-level ATCs were extracted from DrugBank database.
