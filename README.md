@@ -15,7 +15,7 @@ The following data are provided in AgreementPred_Data folder
 4. Precalculated molecular representations of 3 datasets of 1-3
 5. All pubchem compounds used in this study (All_Compound.csv)
 6. A molecular representation name list, mapping representation names used in scripts to those used in the article (29FP_lst.csv)
-7. Lists of Pubchem compounds contained in each sample dataset used for the study
+7. Lists of Pubchem compounds contained in each sample dataset used to evaluate prediction performances.
 
 # Implementation
 To perform pharmacological category recommendation using AgreementPred, the following 3 steps must be conducted in a consecutive manner:
