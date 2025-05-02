@@ -2,7 +2,7 @@
 AgreementPred_Codes folder contains scripts necessary to implement AgreementPred.
 
 # Data
-Due to space limitation on Github. The the data necessary to implement AgreementPred should be downloaded through OneDrive link below:
+Due to limitation of space, uploading and downloading speed involving Github, the the data necessary to implement AgreementPred should be downloaded through OneDrive link below:
 
 [AgreementPred_Data](https://chula-my.sharepoint.com/:f:/g/personal/chayanis_su_chula_ac_th/EuYYZU-8BixIu-Ox3wkLp-gB-s-ezneIsGDkybCHBLQUUw?e=jbfPpV)
 
