@@ -30,11 +30,11 @@ Scripts for molecular representation generation used for AgreementPred are deriv
 - CDK_pywrapper package (https://pypi.org/project/CDK-pywrapper/)
 - Torchdrug (https://torchdrug.ai/docs/installation.html)
 
-As each source of molecular representation has some special requirements, the following Jupyter notebook (.ipynb) should be used for molecular representation generation.
+As each source of molecular representation has some special requirements, the following Jupyter notebook (.ipynb) should be used for molecular representation generation of 29 molecular representations.
 
-1. CDK+RDKIT+Minhash_FP.ipynb
-2. JMAP_FP.ipynb
-3. InfoGraph.ipynb (contained in Torchdrug_InfoGraph folder)
+1. CDK+RDKIT+Minhash_FP.ipynb -- for CDK, RDKIT, and Minhash representations
+2. JMAP_FP.ipynb -- for JMAP representations
+3. InfoGraph.ipynb (contained in Torchdrug_InfoGraph folder) -- for InfoGraph representation
 
 Each notebook requires different python environment. Please use .yml files provided to create working environment as instructed in the notebooks
 
